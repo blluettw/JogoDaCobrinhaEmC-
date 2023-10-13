@@ -4,11 +4,7 @@ int cordenadaydojogador =0, cordenadaxdojogador= 0 , totaldepontos=0, y = 0, x =
 bool precisagerardenovo = true;
 int main ()
 {
-	SetConsoleTitle(L"Get Async Teste ");
-	
-
-	
-
+	SetConsoleTitle(L"Jogo Da Cobrinha ");
 	while (true)
 	{
 		system("cls");
